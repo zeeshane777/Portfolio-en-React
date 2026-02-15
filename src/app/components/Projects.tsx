@@ -21,7 +21,7 @@ const projects = [
   {
     image: 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
     title: 'Site pour Thiam VTC',
-    description: 'Site vitrine pour service VTC avec presentation, contact et mise en avant des prestations.',
+    description: 'Site de reservation rapide pour VTC avec carte integree et parcours client simplifie.',
     tags: ['WordPress', 'PHP', 'CSS'],
     githubUrl: 'https://github.com/zeeshane777/site-pour-Thiam-VTC'
   },

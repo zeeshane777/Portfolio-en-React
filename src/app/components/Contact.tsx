@@ -49,7 +49,7 @@ export function Contact() {
             Contactez-moi
           </h2>
           <p className="text-gray-400 text-lg">
-            Une question ? Un projet ? N'hÃ©sitez pas Ã  me contacter
+            Une question ? Un projet ? N'hesitez pas a me contacter
           </p>
         </motion.div>
 
@@ -111,7 +111,7 @@ export function Contact() {
 
               <Button type="submit" className="w-full flex items-center justify-center gap-2">
                 <Send className="w-4 h-4" />
-                {isSubmitted ? 'Message envoyÃ© !' : 'Envoyer'}
+                {isSubmitted ? 'Message envoye !' : 'Envoyer'}
               </Button>
             </form>
           </motion.div>

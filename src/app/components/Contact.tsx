@@ -182,7 +182,8 @@ export function Contact() {
                   </div>
                 </div>
               </div>
-            </div>`r`n          </motion.div>
+            </div>
+          </motion.div>
         </div>
       </div>
     </section>
